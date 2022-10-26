@@ -16,7 +16,7 @@
 ### [Vecka 51](./assets/v51.md) Handledning - Repetition
 ### [Vecka 1](./assets/v1.md) Handledning
 ### [Vecka 2](./assets/v2.md) Molntjänster och Azure
-### [Vecka 3](./assets/v3.md) MongoDb Atlas och CosmosDB
+### [Vecka 3](./assets/v3.md) MongoDB Atlas och CosmosDB
 
 
 ## Labbar
