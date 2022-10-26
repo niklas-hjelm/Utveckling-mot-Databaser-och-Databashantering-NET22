@@ -1,7 +1,9 @@
 # Utveckling mot Databaser och Databasadministration
 
 ## Tips och Hjälp
-[Lathund SQL-kommandon](./assets/LathundSQL.md)
+* [W3Schools - SQL](https://www.w3schools.com/sql/default.asp)
+* [Lathund SQL-kommandon](./assets/LathundSQL.md)
+* [Lathund MongoDb Shell](./assets/Dark.pdf)
 
 ## Kursmål
 [Kursmål](./assets/Kursmål.md)
