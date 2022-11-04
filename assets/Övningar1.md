@@ -1,4 +1,9 @@
 # Övningsuppgifter 1 – CRUD
+
+Börja med att hämta everyloop.bak från iths-distans och gör en "Restore".
+
+Dessa övningar är menade att ni ska göra i era studiegrupper.
+
 För de övningsuppgifter som kräver att ni ändrar i en tabell (insert, update,
 delete) se först till att kopiera orginaltabellen i everyloop till en ny tabell, som ni
 sedan kan modifiera. På så vis har ni alltid orginalet kvar oförändrat.

@@ -1,5 +1,9 @@
 # Utveckling mot Databaser och Databasadministration
 
+## Viktiga Länkar
+* [SQL Server 2019](https://go.microsoft.com/fwlink/?linkid=866662)
+* [SQL Server Management Studio](https://learn.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver15)
+
 ## Tips och Hjälp
 * [W3Schools - SQL](https://www.w3schools.com/sql/default.asp)
 * [Lathund SQL-kommandon](./assets/LathundSQL.md)
@@ -15,10 +19,10 @@
 ### [Vecka 48](./assets/v48.md) EntityFramework
 ### [Vecka 49](./assets/v49.md) EntityFramework
 ### [Vecka 50](./assets/v50.md) NoSQL och MongoDb
-### [Vecka 51](./assets/v51.md) Handledning - Repetition
-### [Vecka 1](./assets/v1.md) Handledning
+### [Vecka 51](./assets/v51.md) Handledning - (Repetition)
+### [Vecka 1](./assets/v1.md) Handledning - (Repetition)
 ### [Vecka 2](./assets/v2.md) Molntjänster och Azure
-### [Vecka 3](./assets/v3.md) MongoDB Atlas och CosmosDB
+### [Vecka 3](./assets/v3.md) Handledning - (Repetition)
 
 
 ## Labbar
