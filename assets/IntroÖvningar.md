@@ -28,7 +28,8 @@ Starta SSMS och öppna en *New Query*. Spara med **ctrl+s** och döp filen till 
     |3| Katt |
     |4| Kanin |
 6. Ta bort tabellen och databasen
-7. Skapa en tabell för personer som ska ha 5 kolumner: Id, Förnamn, Efternamn, ålder och Hemort
+7. Skapa en databas fom heter KlassenDb
+8. Skapa en tabell för personer i KlassenDb som ska ha 5 kolumner: Id, Förnamn, Efternamn, ålder och Hemort
     |Id|Förnamn|Efternamn|Ålder|Hemort|
     |-|-|-|-|-|
     |int Primary Key| nvarchar(max) not  null | nvarchar(max) not  null |int  | nvarchar(max) not  null |
