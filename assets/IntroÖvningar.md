@@ -21,7 +21,7 @@ Starta SSMS och öppna en *New Query*. Spara med **ctrl+s** och döp filen till 
     |2| Hund |
     |3| Katt |
     |4| Kanin |
-5. Lista alla fjur med a i namnet
+5. Lista alla djur med a i namnet
     |Id|Namn|
     |-|-|
     |1| Hamster |
