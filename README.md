@@ -8,6 +8,7 @@
 * [W3Schools - SQL](https://www.w3schools.com/sql/default.asp)
 * [Lathund SQL-kommandon](./assets/LathundSQL.md)
 * [Lathund MongoDb Shell](./assets/Dark.pdf)
+* [KeysDemo Exempelkod Nycklar och Joins](./assets/KeysDemo.sql)
 
 ## Kursmål
 [Kursmål](./assets/Kursmål.md)
