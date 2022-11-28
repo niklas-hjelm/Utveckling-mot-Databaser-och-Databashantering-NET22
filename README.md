@@ -5,6 +5,7 @@
 * [SQL Server Management Studio](https://learn.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver15)
 
 ## Tips och Hjälp
+* [Slides](./assets/Slides/)
 * [W3Schools - SQL](https://www.w3schools.com/sql/default.asp)
 * [Lathund SQL-kommandon](./assets/LathundSQL.md)
 * [Lathund MongoDb Shell](./assets/Dark.pdf)
