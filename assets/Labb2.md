@@ -42,7 +42,7 @@ Frågespel där man får 4 alternativ, och kan lägga in egna frågor i olika ka
 Kokbok-app där användare kan lägga in recept och kommentera och betygsätta. 
 
 ## Redovising
-Detta är en individuell uppgift.
+Detta är en individuell uppgift. Repo för genomförande finnes på: https://classroom.github.com/a/fM8FJQes
 
 ## Betygskriterier
 
