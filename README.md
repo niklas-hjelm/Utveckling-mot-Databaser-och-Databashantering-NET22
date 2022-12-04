@@ -10,7 +10,7 @@
 * [Lathund SQL-kommandon](./assets/LathundSQL.md)
 * [Lathund MongoDb Shell](./assets/Dark.pdf)
 * [KeysDemo Exempelkod Nycklar och Joins](./assets/KeysDemo.sql)
-* [SQL cheet sheet](./assets/SQL-cheat-sheet.jpg)
+* [SQL cheat sheet](./assets/SQL-cheat-sheet.jpg)
 
 ## Kursmål
 [Kursmål](./assets/Kursmål.md)
