@@ -48,9 +48,9 @@ Detta är en individuell uppgift. Repo för genomförande finnes på: https://cl
 
 ### För godkänt krävs
 
-* Man ska kunna utföra samtliga CRUD-operationer mot en relationsdatabas med Entity Framework i applikationen
-* Databasen ska innehålla minst 6 tabeller med relevanta relationer. 
-* Samtliga 6 tabeller ska på något sätt användas i applikaitonen.
+* Man ska kunna utföra samtliga RUD-operationer mot en relationsdatabas med Entity Framework i applikationen
+* Databasen ska innehålla minst 2 tabeller med relevanta relationer. 
+* Samtliga 2 tabeller ska på något sätt användas i applikaitonen.
 * Det ska gå att clona repot och köra applikationen på ett smidigt sätt.
 
 ### För väl godkänt krävs:
