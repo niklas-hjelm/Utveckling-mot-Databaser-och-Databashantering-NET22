@@ -13,6 +13,9 @@
 * [KeysDemo Exempelkod Nycklar och Joins](./assets/KeysDemo.sql)
 * [SQL cheat sheet](./assets/SQL-cheat-sheet.jpg)
 
+## Övningar
+[Övningar Mongosh](./assets/ÖvningarMongoDB.md)
+
 ## Kursmål
 [Kursmål](./assets/Kursmål.md)
 
