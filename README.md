@@ -3,6 +3,7 @@
 ## Viktiga Länkar
 * [SQL Server 2019](https://go.microsoft.com/fwlink/?linkid=866662)
 * [SQL Server Management Studio](https://learn.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver15)
+* [MongoDb Community Edition](https://www.mongodb.com/docs/manual/tutorial/install-mongodb-on-windows/)
 
 ## Tips och Hjälp
 * [Slides](./assets/Slides/)
