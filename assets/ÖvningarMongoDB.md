@@ -25,7 +25,7 @@ och sätt in det i en kollektion med namn ”authors”.
 LastName: ”Bondeson”, Birth: 1854
 4. Uppdatera dokumentet för August Bondeson och lägg till Death: 1906 
 5. Lägg till ytterligare författare i ”authors” genom att köra kommandot
-load(”addAuthors.js”) från mongo Shell. [addAuthors.js](./addAuthors.js).
+load(”addAuthors.js”) från mongo Shell. [addAuthors.js](./addAuthors.js). Eller öppna den filen och copy/pasta innehållet i mongosh.
 6. Räkna hur många dokument det finns totalt i ”authors”.
 7. Räkna hur många författare som heter August i förnamn.
 8. Lägg till Birth: 1858 och Death: 1940 för Selma Lagerlöf
