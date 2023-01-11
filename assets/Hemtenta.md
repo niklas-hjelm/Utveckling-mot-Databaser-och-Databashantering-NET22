@@ -1,8 +1,10 @@
 # Instuderingsmaterial och Information för Hemtenta
 
 ## Instuderingsmaterial
-* [Slides](./Slides/)
-* Labbar, övningar och genomgångar
+### [Slides](./Slides/)
+### Labbar, övningar och genomgångar
+### [MongoDB CheatSheet](./Dark.pdf)
+### [SQL CheatSheet](./SQL-cheat-sheet.jpg)
 
 ## Deadline 23:59 22/1-2023
 ### Tentan görs på Dugga på egen tid.
